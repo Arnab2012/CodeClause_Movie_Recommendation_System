@@ -5,7 +5,7 @@ In this Project of Movie Recommendation I have used datas of several Hindi & Eng
 # Dataset Link--> 
 https://www.kaggle.com/datasets/divyanshsareen/times-of-india-movie-reviewshindi-and-english
 
-Here is an overview of the project (using streamlit in local host)-->
+Here is an overview of the project (using streamlit in local host)--->
 
 ![2023-04-03 (5)](https://user-images.githubusercontent.com/98828838/230103775-2c38f997-43e7-48e7-a502-5432514684a8.png)
 
